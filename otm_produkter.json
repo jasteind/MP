@@ -39,7 +39,7 @@
 							"product_name": "COSRX OIL-FREE Ultra-Moisturizing",
 							"product_reference": "demo_3",
 							"product_price": "252"
-						},
+						}]
 						{
 				"id": 2,
 				"payment": "Payment by card",
@@ -57,8 +57,8 @@
 							"product_reference": "demo_9",
 							"product_price": "99"
 						}
-					]
-			}
+								]
+						}	
 		]
 	},
 		{
