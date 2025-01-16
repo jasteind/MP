@@ -29,7 +29,6 @@
 				"total_products_wt": "351",
 				"conversion_rate": "1.000000",
 				"reference": "XKBKNABJK",
-				"associations": {
 					"order_rows": [
 						{
 							"id": "1",
@@ -62,7 +61,6 @@
 							"unit_price_tax_excl": "252"
 						}
 					]
-				}
 			}
 		]
 	},
@@ -96,7 +94,6 @@
 				"total_products_wt": "306",
 				"conversion_rate": "1.000000",
 				"reference": "XKBKNABJK",
-				"associations": {
 					"order_rows": [
 						{
 							"id": "3",
@@ -129,7 +126,6 @@
 							"unit_price_tax_excl": "209"
 						}
 					]
-				}
 			}
 		]
 	}
@@ -163,7 +159,6 @@
 				"total_products_wt": "351",
 				"conversion_rate": "1.000000",
 				"reference": "XKBKNABJK",
-				"associations": {
 					"order_rows": [
 						{
 							"id": "6",
@@ -196,7 +191,6 @@
 							"unit_price_tax_excl": "214"
 						}
 					]
-				}
 			}
 		]
 	}
