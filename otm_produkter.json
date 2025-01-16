@@ -18,7 +18,7 @@
 				"id": 1,
 				"payment": "Payment by card",
 				"total_products": "2",
-				"orderDate": "2025-01-14 13:10:36",
+				"orderDate": "2025-01-14",
 				"conversion_rate": "1.000000",
 				"reference": "XKBKNABJK",
 					"order_rows": [
@@ -44,7 +44,7 @@
 				"id": 2,
 				"payment": "Payment by card",
 				"total_products": "1",
-				"orderDate": "2025-01-11 18:10:36",
+				"orderDate": "2025-01-11",
 				"conversion_rate": "1.000000",
 				"reference": "XKBKNABJeK",
 					"order_rows": [
@@ -65,7 +65,7 @@
 		"id": 2,
 		"id_default_group": "3",
 		"id_lang": "1",
-		"newsletter_date_add": "2022-05-30 13:10:36",
+		"newsletter_date_add": "2022-05-30",
 		"ip_registration_newsletter": null,
 		"lastname": "Loennechen",
 		"firstname": "Ola",
@@ -79,7 +79,7 @@
 			{
 				"id": 2,
 				"payment": "Payment by card",
-				"orderDate": "2024-12-10 10:11:36",
+				"orderDate": "2024-12-10",
 				"total_products": "2",
 				"conversion_rate": "1.000000",
 				"reference": "XKBKNABJKr",
@@ -124,7 +124,7 @@
 			{
 				"id": 3,
 				"payment": "Payment by card",
-				"orderDate": "2024-11-20 11:10:36",
+				"orderDate": "2024-11-20",
 				"total_products": "2",
 				"conversion_rate": "1.000000",
 				"reference": "XKBKNABJsK",
