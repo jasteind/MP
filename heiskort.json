@@ -1,0 +1,82 @@
+[
+  {
+    "firstname": "Jenny",
+    "lastname": "Steindal",
+    "email": "jenny.steindal@linkmobility.com",
+    "phone": "+47 41234567",
+    "orders": [
+      { "orderDate": "2025-03-21", "product": "Dagskort", "tickets": 2, "totalPrice": 1000 },
+      { "orderDate": "2025-03-22", "product": "3 timers kort", "tickets": 1, "totalPrice": 300 },
+      { "orderDate": "2025-03-23", "product": "Dagskort", "tickets": 2, "totalPrice": 1000 },
+      { "orderDate": "2025-03-24", "product": "Ukeskort", "tickets": 1, "totalPrice": 2500 },
+      { "orderDate": "2025-03-25", "product": "Dagskort", "tickets": 3, "totalPrice": 1500 },
+      { "orderDate": "2025-03-26", "product": "3 timers kort", "tickets": 1, "totalPrice": 300 },
+      { "orderDate": "2025-03-27", "product": "Ukeskort", "tickets": 2, "totalPrice": 5000 },
+      { "orderDate": "2025-03-28", "product": "Dagskort", "tickets": 1, "totalPrice": 500 }
+    ]
+  },
+  {
+    "firstname": "Ola",
+    "lastname": "Loennechen",
+    "email": "ola.loennechen@linkmobility.com",
+    "phone": "+47 93456789",
+    "orders": [
+      { "orderDate": "2025-03-21", "product": "Ukeskort", "tickets": 3, "totalPrice": 7500 },
+      { "orderDate": "2025-03-22", "product": "Dagskort", "tickets": 1, "totalPrice": 500 },
+      { "orderDate": "2025-03-23", "product": "3 timers kort", "tickets": 2, "totalPrice": 600 },
+      { "orderDate": "2025-03-24", "product": "Ukeskort", "tickets": 2, "totalPrice": 5000 },
+      { "orderDate": "2025-03-25", "product": "3 timers kort", "tickets": 1, "totalPrice": 300 },
+      { "orderDate": "2025-03-26", "product": "Dagskort", "tickets": 3, "totalPrice": 1500 },
+      { "orderDate": "2025-03-27", "product": "Ukeskort", "tickets": 2, "totalPrice": 5000 },
+      { "orderDate": "2025-03-28", "product": "Dagskort", "tickets": 1, "totalPrice": 500 },
+      { "orderDate": "2025-03-29", "product": "3 timers kort", "tickets": 2, "totalPrice": 600 }
+    ]
+  },
+  {
+    "firstname": "Johan-Fredrik",
+    "lastname": "Thaulow",
+    "email": "johan.thaulow@linkmobility.com",
+    "phone": "+47 98765432",
+    "orders": [
+      { "orderDate": "2025-03-22", "product": "Dagskort", "tickets": 1, "totalPrice": 500 },
+      { "orderDate": "2025-03-23", "product": "3 timers kort", "tickets": 1, "totalPrice": 300 },
+      { "orderDate": "2025-03-24", "product": "Dagskort", "tickets": 1, "totalPrice": 500 },
+      { "orderDate": "2025-03-25", "product": "Ukeskort", "tickets": 1, "totalPrice": 2500 },
+      { "orderDate": "2025-03-26", "product": "3 timers kort", "tickets": 1, "totalPrice": 300 }
+    ]
+  },
+  {
+    "firstname": "Maria",
+    "lastname": "Andersen",
+    "email": "maria.andersen@example.com",
+    "phone": "+47 45678901",
+    "orders": [
+      { "orderDate": "2025-03-21", "product": "Ukeskort", "tickets": 2, "totalPrice": 5000 },
+      { "orderDate": "2025-03-22", "product": "Dagskort", "tickets": 2, "totalPrice": 1000 },
+      { "orderDate": "2025-03-23", "product": "3 timers kort", "tickets": 3, "totalPrice": 900 },
+      { "orderDate": "2025-03-24", "product": "Ukeskort", "tickets": 2, "totalPrice": 5000 },
+      { "orderDate": "2025-03-25", "product": "Dagskort", "tickets": 2, "totalPrice": 1000 },
+      { "orderDate": "2025-03-26", "product": "3 timers kort", "tickets": 2, "totalPrice": 600 },
+      { "orderDate": "2025-03-27", "product": "Dagskort", "tickets": 1, "totalPrice": 500 },
+      { "orderDate": "2025-03-28", "product": "Ukeskort", "tickets": 1, "totalPrice": 2500 },
+      { "orderDate": "2025-03-29", "product": "3 timers kort", "tickets": 2, "totalPrice": 600 }
+    ]
+  },
+  {
+    "firstname": "Thomas",
+    "lastname": "Berg",
+    "email": "thomas.berg@example.com",
+    "phone": "+47 40112233",
+    "orders": [
+      { "orderDate": "2025-03-21", "product": "Dagskort", "tickets": 1, "totalPrice": 500 },
+      { "orderDate": "2025-03-22", "product": "Ukeskort", "tickets": 2, "totalPrice": 5000 },
+      { "orderDate": "2025-03-23", "product": "3 timers kort", "tickets": 1, "totalPrice": 300 },
+      { "orderDate": "2025-03-24", "product": "Dagskort", "tickets": 3, "totalPrice": 1500 },
+      { "orderDate": "2025-03-25", "product": "Ukeskort", "tickets": 2, "totalPrice": 5000 },
+      { "orderDate": "2025-03-26", "product": "Dagskort", "tickets": 2, "totalPrice": 1000 },
+      { "orderDate": "2025-03-27", "product": "3 timers kort", "tickets": 1, "totalPrice": 300 },
+      { "orderDate": "2025-03-28", "product": "Ukeskort", "tickets": 3, "totalPrice": 7500 },
+      { "orderDate": "2025-03-29", "product": "Dagskort", "tickets": 2, "totalPrice": 1000 }
+    ]
+  }
+]
