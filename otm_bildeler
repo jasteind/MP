@@ -1,0 +1,41 @@
+{
+  "car_models": [
+    {
+      "model_id": "1",
+      "name": "Toyota Corolla",
+      "parts": [
+        {
+          "part_id": "101",
+          "name": "Bremseklosser foran",
+          "manufacturer": "Bosch"
+        },
+        {
+          "part_id": "102",
+          "name": "Oljefilter",
+          "manufacturer": "Mann Filter"
+        },
+        {
+          "part_id": "103",
+          "name": "Luftfilter",
+          "manufacturer": "Mahle"
+        }
+      ]
+    },
+    {
+      "model_id": "2",
+      "name": "Volkswagen Golf",
+      "parts": [
+        {
+          "part_id": "201",
+          "name": "Drivstoffpumpe",
+          "manufacturer": "Bosch"
+        },
+        {
+          "part_id": "202",
+          "name": "Tennplugger",
+          "manufacturer": "NGK"
+        }
+      ]
+    }
+  ]
+}
