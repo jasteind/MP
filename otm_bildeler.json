@@ -1,39 +1,64 @@
 {
-  "car_models": [
+  "owners": [
     {
-      "model_id": "1",
-      "name": "Toyota Corolla",
-      "parts": [
+      "owner_id": "1",
+      "name": "Ola Nordmann",
+      "email": "ola.nordmann@example.com",
+      "phone": "+47 400 00 001",
+      "cars": [
         {
-          "part_id": "101",
-          "name": "Bremseklosser foran",
-          "manufacturer": "Bosch"
+          "car_id": "A1",
+          "model": "Toyota Corolla",
+          "year": 2017,
+          "parts": [
+            {
+              "part_id": "101",
+              "name": "Bremseklosser foran",
+              "manufacturer": "Bosch"
+            },
+            {
+              "part_id": "102",
+              "name": "Oljefilter",
+              "manufacturer": "Mann Filter"
+            }
+          ]
         },
         {
-          "part_id": "102",
-          "name": "Oljefilter",
-          "manufacturer": "Mann Filter"
-        },
-        {
-          "part_id": "103",
-          "name": "Luftfilter",
-          "manufacturer": "Mahle"
+          "car_id": "A2",
+          "model": "Ford Focus",
+          "year": 2019,
+          "parts": [
+            {
+              "part_id": "103",
+              "name": "Drivstoffilter",
+              "manufacturer": "Bosch"
+            }
+          ]
         }
       ]
     },
     {
-      "model_id": "2",
-      "name": "Volkswagen Golf",
-      "parts": [
+      "owner_id": "2",
+      "name": "Kari Nordmann",
+      "email": "kari.nordmann@example.com",
+      "phone": "+47 400 00 002",
+      "cars": [
         {
-          "part_id": "201",
-          "name": "Drivstoffpumpe",
-          "manufacturer": "Bosch"
-        },
-        {
-          "part_id": "202",
-          "name": "Tennplugger",
-          "manufacturer": "NGK"
+          "car_id": "B1",
+          "model": "Volkswagen Golf",
+          "year": 2021,
+          "parts": [
+            {
+              "part_id": "201",
+              "name": "Tennplugger",
+              "manufacturer": "NGK"
+            },
+            {
+              "part_id": "202",
+              "name": "Luftfilter",
+              "manufacturer": "Mahle"
+            }
+          ]
         }
       ]
     }
